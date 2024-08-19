@@ -1,7 +1,10 @@
 <h1> Smart Cinema IoT System Using Cisco Packet Tracer </h1>
 
 
-<h2> YouTube link: </h2> https://youtu.be/UDFj25usAkw
+<h2> YouTube link: </h2>
+
+Due to the lack of Arabic resources related to networking on YouTube and the internet in general, we decided to create this video in Arabic to explain our project: https://youtu.be/UDFj25usAkw
+بالعربي
 
 <h2> Network's Topology </h2>
 
