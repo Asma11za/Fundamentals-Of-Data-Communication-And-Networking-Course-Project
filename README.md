@@ -10,10 +10,14 @@ Due to the lack of Arabic resources related to networking on YouTube and the int
 
 <img width="790" alt="Screen Shot 2024-08-19 at 7 14 45 AM" src="https://github.com/user-attachments/assets/857b2855-caf5-4f55-ba72-9bb6fc6eb27e">
 
-<h2> Router0</h2>
+<h2> Requirements: </h2>
+
+<h3> IoT: </h3>
+
+<h3> Router0 </h3>
 <img src="https://github.com/user-attachments/assets/19b0d907-6681-4efa-abba-bdce4bdbcc21" alt="Router0" width="450">
 
-<h3> Router1</h3>
+<h3> Router1 </h3>
 <img src="https://github.com/user-attachments/assets/d4eae521-3e9e-4fd6-8b50-b24ce458a3f2" alt="Router1" width="450">
 
 <h3> Router2-IP Phone</h3>
