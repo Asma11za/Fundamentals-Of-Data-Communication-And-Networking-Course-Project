@@ -1,4 +1,5 @@
 <h1> Smart Cinema with IoT System </h1>
+ This model is done by simulating it using Cisco Packet Tracer, which is involved with different IoT features and functions.
 
 
 <h2> YouTube link: </h2>
