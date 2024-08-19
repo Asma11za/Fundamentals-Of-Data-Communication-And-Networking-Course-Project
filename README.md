@@ -1,5 +1,5 @@
 <h2> Fig 1 Router0 </h2>
-<img src="https://github.com/user-attachments/assets/e233bd78-af45-4f36-a29c-7100387d0ed9" alt="Image" width="600">
+<img src="https://github.com/user-attachments/assets/b5fc80ce-09a0-4b61-874b-7a1fbb84a94e" alt="Image" width="600">
 
 <h3>Fig 2 Router1</h3>
 <img src="https://github.com/user-attachments/assets/68e153c8-ff64-4582-9391-97a3013224de" alt="Router1" width="600">
