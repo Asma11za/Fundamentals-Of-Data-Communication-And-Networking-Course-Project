@@ -1,3 +1,8 @@
+
+
+
+<img width="790" alt="Screen Shot 2024-08-19 at 7 14 45 AM" src="https://github.com/user-attachments/assets/857b2855-caf5-4f55-ba72-9bb6fc6eb27e">
+
 <h2>Fig 1 Router0</h2>
 <img src="https://github.com/user-attachments/assets/19b0d907-6681-4efa-abba-bdce4bdbcc21" alt="Router0" width="600">
 
@@ -5,6 +10,7 @@
 <img src="https://github.com/user-attachments/assets/d4eae521-3e9e-4fd6-8b50-b24ce458a3f2" alt="Router1" width="600">
 
 <h3>Fig 3 Router2-IP Phone</h3>
+
 <img src="https://github.com/user-attachments/assets/203cba7c-5c6c-46bd-832a-76575ace5c90" alt="Router2-IP Phone" width="600">
 
 <h3>Fig 4 Switch0-Vlan</h3>
