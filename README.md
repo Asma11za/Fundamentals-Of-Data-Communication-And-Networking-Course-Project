@@ -28,10 +28,15 @@ Due to the lack of Arabic resources related to networking on YouTube and the int
   
 <h3> IoT: </h3>
 
+- 1 Home Gateway
 - 1 Heating Element Fire (for testing)
 - 1 Webcam
 - 1 Smartphone
 - 1 Motion Detector
+- 1 Door
+- 1 Fire Monitor
+- 1 Fire Sprinkles 
+- 1 MCU Board
 
 <h2> Configuration Details: </h2>
 <h3> Router0 </h3>
