@@ -1,4 +1,4 @@
-<h1> Smart Cinema IoT System Using Cisco Packet Tracer </h1>
+<h1> Smart Cinema with IoT System </h1>
 
 
 <h2> YouTube link: </h2>
@@ -6,14 +6,34 @@
 Due to the lack of Arabic resources related to networking on YouTube and the internet in general, we decided to create this video in Arabic to explain our project: https://youtu.be/UDFj25usAkw بالعربي
 
 
-<h2> Network's Topology </h2>
+<h2> Network's Topology: </h2>
 
 <img width="790" alt="Screen Shot 2024-08-19 at 7 14 45 AM" src="https://github.com/user-attachments/assets/857b2855-caf5-4f55-ba72-9bb6fc6eb27e">
 
-<h2> Requirements: </h2>
+<h2> Software tool used: </h2>
 
+- Cisco Packet Tracer
+  
+<h2> Network Requirements: </h2>
+
+- 2 Switches
+- 3 Routers
+- 1 Wireless Router
+- 5 Tablet PCs (as Lounges)
+- 3 PC
+- 1 Server
+- 2 Printers
+- 2 Phones
+- 3 TV
+  
 <h3> IoT: </h3>
 
+- 1 Heating Element Fire (for testing)
+- 1 Webcam
+- 1 Smartphone
+- 1 Motion Detector
+
+<h2> Configuration Details: </h2>
 <h3> Router0 </h3>
 <img src="https://github.com/user-attachments/assets/19b0d907-6681-4efa-abba-bdce4bdbcc21" alt="Router0" width="450">
 
